@@ -1,41 +1,57 @@
-# Hi 👋 I'm Gayatri Pagare
+<h1 align="center">Hi 👋, I'm Gayatri Pagare</h1>
+<h3 align="center">Artificial Intelligence & Data Science Engineer | Aspiring Data Analyst 🚀</h3>
 
-🎓 Artificial Intelligence & Data Science Student  
-📍 Nashik, India  
-💡 Passionate about Data Science & AI  
-
----
-
-## 🚀 About Me
-- 💻 AI & DS Engineering Student  
-- 📊 Interested in Data Science & Machine Learning  
-- 🏆 Preparing for placements & internships  
-- 🔥 Building real-world projects  
+<p align="center">
+  <em>"Turning Data into Decisions"</em>
+</p>
 
 ---
 
-## 🛠️ Skills
-- Python
-- SQL
-- Power BI
-- Excel
-- Tableau
-- Machine Learning
-- Statistics
+## 👩‍💻 About Me
+- 🎓 Artificial Intelligence & Data Science Engineering Student  
+- 📍 Nashik, India  
+- 📊 Passionate about Data Analytics & Machine Learning  
+- 💡 Interested in solving real-world problems using AI  
+- 🔥 Actively preparing for placements & internships  
 
 ---
 
 ## 🚀 Projects
-- 🔹 Sales Analytics Dashboard  
-- 🔹 Mobile Sales Dashboard 
+- ✋ Math with Gestures Using AI  
+- 📊 SQL & Power BI Data Analysis Projects  
+
+---
+
+## 🛠️ Technical Skills
+### 💻 Programming
+- Python  
+- C++  
+
+### 🗄️ Database
+- SQL  
+
+### 📊 Tools
+- Power BI  
+- Excel  
+
+### 📚 Core Concepts
+- Data Structures & Algorithms  
+- Statistics  
+- Object-Oriented Programming  
+- Internet of Things (IoT)  
 
 ---
 
 ## 📜 Certifications
-- C++ Programming Certification (CodSoft)  
-- AI for Business Professionals (HP Life)
+- C++ Programming Certification – CodSoft  
+- AI for Business Professionals – HP LIFE  
 
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: www.linkedin.com/in/gayatri-pagare
+- 💼 LinkedIn: www.linkedin.com/in/gayatri-pagare 
+- 📧 Email: gaytripagare05@gmail.com  
+
+---
+
+⭐ Always learning, always building.
