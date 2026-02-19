@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋 I'm Gayatri Pagare
 
-<!--
-**gaytripagare/gaytripagare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Artificial Intelligence & Data Science Student  
+📍 Nashik, India  
+💡 Passionate about Data Science & AI  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 💻 AI & DS Engineering Student  
+- 📊 Interested in Data Science & Machine Learning  
+- 🏆 Preparing for placements & internships  
+- 🔥 Building real-world projects  
+
+---
+
+## 🛠️ Skills
+- Python
+- SQL
+- Power BI
+- Excel
+- Tableau
+- Machine Learning
+- Statistics
+
+---
+
+## 🚀 Projects
+- 🔹 Sales Analytics Dashboard  
+- 🔹 Mobile Sales Dashboard 
+
+---
+
+## 📜 Certifications
+- C++ Programming Certification (CodSoft)  
+- AI for Business Professionals (HP Life)
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/gayatri-pagare
