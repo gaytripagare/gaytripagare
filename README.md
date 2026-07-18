@@ -41,13 +41,10 @@ Become an AI Engineer / Data Scientist at a leading product-based company.
 ## 👨‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java"/>
+<img src="https://skillicons.dev/icons?i=python"/>
 </p>
 
 - Python
-- C++
-- C
-- Java (Basics)
 
 ---
 
